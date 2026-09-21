@@ -18,11 +18,11 @@ In this project, the LDR is used to sense ambient brightness and control an LED 
 * Breadboard – 1  
 * Connecting wires – As required
 
-  ![][image1]
+  ![stimulation](components.jpg)
 
 4\. Circuit Schematic  
               The schematic diagram represents the electrical connection and operating arrangement of the LDR, transistor, LED, resistors, and 9 V DC supply.  
-![][image2]
+![stimulation]
 
 # 5\. Circuit Assembly
 
