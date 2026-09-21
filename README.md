@@ -63,14 +63,14 @@ Low Light/Darkness → Transistor ON → LED ON![working](workingblow.jpg)
 
 Under high ambient brightness, the LDR senses strong illumination and the LED remains OFF.  
 Result: Bright environment → LED OFF  
-![][image6]
+![result](resultoff.jpg)
 
 ## **8.2 Low Brightness / Dark Result**
 
 Under low ambient brightness or darkness, the LDR senses reduced illumination and the LED automatically turns ON.  
 Result: Dark environment → LED ON
 
-![][image7]
+![result](resulton.jpg)
 
 # 9\. Applications
 
