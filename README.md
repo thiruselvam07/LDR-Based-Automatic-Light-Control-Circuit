@@ -31,7 +31,7 @@ Two operating conditions were tested:
 
 1. High ambient brightness  
 2. Low ambient brightness / darkness  
-   ![stimulation ](3.jpg)
+   ![stimulation ](circuitt.jpg)
 
 # 6\. Working Principle
 
