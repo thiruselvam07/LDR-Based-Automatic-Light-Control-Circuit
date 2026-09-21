@@ -22,7 +22,7 @@ In this project, the LDR is used to sense ambient brightness and control an LED 
 
 4\. Circuit Schematic  
               The schematic diagram represents the electrical connection and operating arrangement of the LDR, transistor, LED, resistors, and 9 V DC supply.  
-![circuit schematic](circuitschematic.jgp)
+![circuitschematic](circuitschematic.jgp)
 
 # 5\. Circuit Assembly
 
