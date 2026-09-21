@@ -39,12 +39,12 @@ Two operating conditions were tested:
 
                  When the LDR is exposed to high outdoor brightness, its resistance decreases. This causes the transistor to remain OFF, resulting in the LED being switched OFF.  
 Bright Light → Transistor OFF → LED OFF  
-![working](workingblow.jpg)
+![working](workingnotblow.jpg)
 
 ## **6.2 Low Ambient Brightness / Darkness**
 
                  When the surrounding light intensity decreases, the resistance of the LDR increases. This causes the transistor to switch ON, allowing current to flow through the LED.  
-Low Light/Darkness → Transistor ON → LED ON![][image5]
+Low Light/Darkness → Transistor ON → LED ON![working](workingblow.jpg)
 
 # 7\. Experimental Procedure
 
